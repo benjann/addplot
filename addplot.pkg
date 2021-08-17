@@ -1,0 +1,8 @@
+v 3
+d addplot: Stata module to add twoway plot objects to an existing twoway graph
+d 
+d Author: Ben Jann, University of Bern, ben.jann@unibe.ch
+d
+d Distribution-Date: 20210817
+f addplot.ado
+f addplot.hlp
