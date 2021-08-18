@@ -13,6 +13,12 @@ to achieve in a single graph command (e.g. customizing individual subgraphs
 within a by-graph). `addplot` also provides a substitute for some of the
 functionality of the graph editor.
 
+See for a paper on `addplot` see:
+
+> Jann, Ben (2015). A note on adding objects to an existing twoway graph.
+> The Stata Journal 15(3): 751-755.
+> DOI: [10.1177/1536867X1501500308](https://doi.org/10.1177/1536867X1501500308).
+
 To install `addplot` from the SSC Archive, type
 
     . ssc install addplot, replace
